@@ -1,0 +1,53 @@
+body
+{
+  background-color: #40FF00;
+}
+.p
+{
+  background: gray;
+  display: flex;
+  margin: 3%;
+  padding: 3%;
+  justify-content: space-around;
+
+}
+.v
+{
+  background: pink;
+  padding:5%;
+  margin:1%;
+  text-align:center;
+  box-shadow: 5px 5px 5px black;
+  border-radius: 5%
+}
+img{
+  width: 90%;
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+  body{
+    background-color: red;
+  }
+  .p{
+    display:flex;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+  }
+  .v{
+    width:90%;
+  }
+}
+  @media only screen and (min-width:481px) and (max-width:760px){
+    body{
+      background:blue;
+  }
+  .p{
+    display:flex;
+    flex-wrap: wrap;
+    /* flex-direction: column; */
+  }
+  .v{
+    width:35%;
+  }
+
+
+}

@@ -1,0 +1,46 @@
+{
+  "left":{
+    "img":"images/teddy.jpg",
+    "name":"pavani",
+    "designation":"web developers",
+    "rollno":"17691A0592",
+    "email":"pavanikamparaju@gmail.com"
+  },
+"carier":{
+  "info":"to work in an environment where i can utilize my skills and knowledge "
+},
+"education":[
+  {
+    "sno":"1",
+    "institute":"nri",
+    "board":"board of intermediate",
+    "yop":"2017",
+    "percentage":"96%"
+  },
+  {
+  "sno":"2",
+  "institute":"ravindra bharathi school",
+  "board":"board of secondary schools",
+  "yop":"2015",
+  "percentage":"92%"
+},
+  {"sno":"3",
+  "institute":"mits",
+  "board":"btech",
+  "yop":"2021",
+  "percentage":"95%"
+}
+],
+"skills":[
+  {
+    "program":"c"
+  },
+  {
+    "program":"c++"
+  },
+  {
+    "program":"java"
+  }
+
+]
+}

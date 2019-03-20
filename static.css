@@ -1,0 +1,32 @@
+body{
+  background-color:grey;
+}
+.p
+{
+  background-color: pink;
+  display: flex;
+  margin: 3%;
+  padding: 3%;
+  justify-content: space-around;
+}
+.v
+{
+  background-color: #00ffbf;
+  margin:3%;
+  padding:3%;
+box-shadow: 5px 5px 5px black;
+border-radius: 3%;
+text-align: center;
+}
+.c
+{
+  background-color: #00ffbf;
+  margin:3%;
+  padding:3%;
+  box-shadow: 5px 5px 5px black;
+  border-radius: 3%
+
+}
+table{
+  border :1px solid red;
+}
